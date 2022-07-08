@@ -1,0 +1,16 @@
+{
+  "name": "vacaciones",
+  "version": "1.0.0",
+  "description": "web",
+  "main": "index.html",
+  "scripts": {
+    "start": "node src/index.html"
+  },
+  "author": "Urrix",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "router-dom": "^2.2.9",
+    "sax": "^1.2.4"
+  }
+}
